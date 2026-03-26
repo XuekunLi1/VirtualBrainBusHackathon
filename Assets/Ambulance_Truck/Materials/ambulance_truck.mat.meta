@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d3ef750d48b1d954b9a4739a39973292
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 126445
+  packageName: Ambulance Truck
+  packageVersion: 1.2
+  assetPath: Assets/Ambulance_Truck/Materials/ambulance_truck.mat
+  uploadId: 756940

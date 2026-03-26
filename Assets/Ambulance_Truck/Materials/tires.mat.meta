@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 810b51a28541a6a4b846633d1fd5f5e3
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 126445
+  packageName: Ambulance Truck
+  packageVersion: 1.2
+  assetPath: Assets/Ambulance_Truck/Materials/tires.mat
+  uploadId: 756940

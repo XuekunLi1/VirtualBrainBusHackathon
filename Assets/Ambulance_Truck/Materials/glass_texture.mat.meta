@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9fcaee0119e98784087e1094af324834
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 126445
+  packageName: Ambulance Truck
+  packageVersion: 1.2
+  assetPath: Assets/Ambulance_Truck/Materials/glass_texture.mat
+  uploadId: 756940
